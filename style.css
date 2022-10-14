@@ -1,5 +1,12 @@
+
+
 header {
-    background-color: blueviolet
+    background-color: blueviolet;
+    text-align: center;
+}
+
+main {
+    text-shadow: 2px 2px #000000;
 }
 
 .título {
@@ -17,6 +24,8 @@ header {
     height: 500px;
     margin-left: 35%;
     padding: 30px;
+    border: dotted, red 45%;
+    
 }
 
 .object2 {
@@ -28,7 +37,7 @@ header {
 
 h1 {
     color: rgb(255, 255, 255);
-    text-shadow: 2px 2px #000000;
+    /*text-shadow: 2px 2px #000000;*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -45,14 +54,14 @@ h2 {
 
 h3 {
     color: rgb(255, 255, 255);
-    text-shadow: 2px 2px #000000;
+    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
 body {
-    background: linear-gradient(to right, rgb(215, 178, 144) 25%, rgb(104, 228, 199) 50%, rgb(89, 212, 159) 70%, rgb(93, 205, 228) 100%, rgb(225, 193, 96) 0%);
-    color: white;
+    background: linear-gradient(to bottom, rgb(27, 22, 18) 25%, rgb(13, 163, 33) 50%, rgb(89, 212, 159) 70%, rgb(119, 21, 90) 100%, rgb(225, 193, 96) 0%);
+    color: white; 
 }
 
 
