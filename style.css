@@ -38,7 +38,8 @@ main {
 h1 {
     color: rgb(255, 255, 255);
     /*text-shadow: 2px 2px #000000;*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+    font-family: Comic Sans MS;
     text-align: center;
 }
 
@@ -78,4 +79,12 @@ body {
 
 body {background: linear-gradient(90deg, rgba(123, 36, 28) 20%, rgb(171, 25, 59) 40%, rgb(199, 29, 69) 60%, rgb(233, 107, 10) 80%, rgb(233, 177, 10) 100%);
     color: white;
+}*/
+
+.link{
+    text-align: center;
+    text-shadow: 2px 2px #c77d7d;
+    font-family: Comic Sans MS;
+    border: dotted, red 45%;
+    color: rgb(224, 7, 7);
 }
